@@ -18,8 +18,8 @@ public class from1 {
             public void actionPerformed(ActionEvent e) {
                 String cedula = ingresoCedula.getText();
 
-                String url = "jdbc:mysql://sql10.freemysqlhosting.net:3306/sql10720936";
-                String usuario = "sql10720936";
+                String url = "jdbc:mysql://sql10.freemysqlhosting.net:3306/sql10720951";
+                String usuario = "sql10720951";
                 String password = "TQeMDi1ru2";
                 Connection conn = null;
                 PreparedStatement pstmt = null;
